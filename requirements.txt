@@ -1,0 +1,28 @@
+# Deep Learning for Business Analytics
+# Install with: pip install -r requirements.txt
+
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchtext>=0.15.0
+
+# Data and analysis
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Visualisation
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# NLP and LLMs
+transformers>=4.30.0
+datasets>=2.12.0
+
+# App interfaces
+gradio>=3.35.0
+
+# Utilities
+kaggle>=1.5.0
+tqdm>=4.65.0
+ipywidgets>=8.0.0
